@@ -1,0 +1,11 @@
+
+U
+java:S2589B"8Remove this expression which always evaluates to "false"(¤ß±á8¬“†¡×1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¯“†¡×1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8°“†¡×1
+o
+java:S6204;"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÜÐþÏ8É“†¡×1
+o
+java:S6204E"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÇíµÃ8Ò“†¡×1

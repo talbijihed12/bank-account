@@ -1,0 +1,9 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8‚°³†Õ1
+r
+java:S1128"URemove this unused import 'com.techbank.account.cmd.api.commands.OpenAccountCommand'.(ÀÑ­¨8£´ÿ†Õ1
+s
+java:S1128"QRemove this unused import 'com.techbank.account.cmd.api.dto.OpenAccountResponse'.(ÇƒÌðøÿÿÿÿ8£´ÿ†Õ1
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8£´ÿ†Õ1
